@@ -1,0 +1,16 @@
+P4
+    "token": 
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6ImNmbG9yIiwiaWF0IjoxNzI4MjM3MzU0LCJleHAiOjE3MjgzMjM3NTR9.MkMj-RV5sdiTb-AN9eSkjGxUqt9IBN7AhejX39aLlyA"
+
+P5
+      "user_id": 1,
+      "fullname": "Christine Flor",
+      "username": "flor",
+      "created_at": "2024-10-06T15:22:59.000Z",
+      "updated_at": "2024-10-06T15:22:59.000Z"
+    
+      "user_id": 3,
+      "fullname": "Christine Flor",
+      "username": "cflor",
+      "created_at": "2024-10-06T17:55:31.000Z",
+      "updated_at": "2024-10-06T17:55:31.000Z"
